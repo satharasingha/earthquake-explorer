@@ -1,4 +1,4 @@
-# Earthquake Explorer
+Earthquake Explorer
 
 A small data-exploration interface using the **USGS Earthquake Catalog API**. It helps a user answer practical questions about the selected period: how many earthquakes were recorded, how large they were, where they were concentrated, and how the magnitudes are distributed.
 
